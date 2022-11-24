@@ -27,7 +27,7 @@ Password: admin
 ```   
 Always you can go to create new user or custom tier in admin panel :)
 
-# Endpoints</h1>
+# Endpoints
 
 #### Get list of images
 ```bash
@@ -51,6 +51,9 @@ POST: http://127.0.0.1:8000/api/image/<image_id>/binary-image/
 ```bash
 GET: http://127.0.0.1:8000/api/image/<binary_image_link>/
 ```
+
+# How to improve projet?
+* Celery to delete binary images that have expired (In the projectit removing are after entering the endpoint which is not optimal)
 
 
 
