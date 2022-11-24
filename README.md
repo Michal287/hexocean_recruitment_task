@@ -2,7 +2,7 @@
 
 #### Clone repository
 ```
-git clone xxx
+git clone https://github.com/Michal287/hexocean
 ```
 #### Go to the folder
 ```
