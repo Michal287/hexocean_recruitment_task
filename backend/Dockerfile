@@ -15,5 +15,3 @@ RUN pip install -r requirements.txt
 
 # copy our project code
 COPY . /var/backend
-
-ENTRYPOINT ["sh", "entrypoint.sh"]
