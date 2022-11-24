@@ -1,0 +1,12 @@
+DEBUG=1
+SECRET_KEY=django-insecure--ew8ybx#7tf%6k2**!he9$vec=r2d5&#npw6_f545x^)*@#*jv
+
+SQL_ENGINE=django.db.backends.postgresql
+SQL_DATABASE=postgres
+SQL_USER=postgres
+SQL_PASSWORD=postgres
+SQL_HOST=db
+SQL_PORT=5432
+
+CELERY_BROKER=redis://redis:6379/0
+CELERY_BACKEND=redis://redis:6379/0
