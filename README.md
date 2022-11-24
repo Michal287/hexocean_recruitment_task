@@ -53,7 +53,7 @@ GET: http://127.0.0.1:8000/api/image/<binary_image_link>/
 ```
 
 # How to improve projet?
-* Celery to delete binary images that have expired (In the projectit removing are after entering the endpoint which is not optimal)
+* Celery to delete binary images that have expired (In the project removing are after entering the endpoint which is not optimal)
 
 
 
