@@ -1,4 +1,4 @@
-# SETUP HEXOCEAN PROJECT
+# SETUP PROJECT
 
 #### Clone repository
 ```
